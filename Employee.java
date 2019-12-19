@@ -7,6 +7,7 @@ private String mail;
 private String mobile;
 
 private int age;
+private String adresse;
 
 
 }
