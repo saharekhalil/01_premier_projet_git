@@ -8,5 +8,12 @@ private String mobile;
 
 private int age;
 
+/*
+*constructor
+*/
+public Employee(){
+
+}
+
 
 }
